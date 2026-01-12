@@ -31,18 +31,25 @@ Powered by Mihomo (Clash.Meta) Core | Elegant Web UI | One-Click Deployment
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to expand screenshots</summary>
+### Dashboard
+Real-time traffic monitoring, connection stats, and exit IP display.
 
-| Dashboard | Proxy Groups |
-|:---:|:---:|
-| Real-time traffic monitoring | Node selection & speed test |
+![Dashboard](https://raw.githubusercontent.com/p-box2025/P-BOX/main/1.png)
 
-| Subscriptions | Core Management |
-|:---:|:---:|
-| Multi-source management | Auto version detection |
+### Proxy Groups
+Node selection, latency testing, and proxy group management.
 
-</details>
+![Proxy Groups](https://raw.githubusercontent.com/p-box2025/P-BOX/main/2.png)
+
+### Subscriptions
+Multi-source subscription management with one-click update.
+
+![Subscriptions](https://raw.githubusercontent.com/p-box2025/P-BOX/main/3.png)
+
+### Core Management
+Mihomo core version detection, download, and installation.
+
+![Core Management](https://raw.githubusercontent.com/p-box2025/P-BOX/main/4.png)
 
 ## 🚀 Quick Start
 
