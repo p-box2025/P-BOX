@@ -32,24 +32,24 @@ Powered by Mihomo (Clash.Meta) Core | Elegant Web UI | One-Click Deployment
 ## 📸 Screenshots
 
 ### Dashboard
-Real-time traffic monitoring, connection stats, and exit IP display.
+Real-time throughput, traffic stats, DNS statistics, traffic ranking, route stats, and system info.
 
 ![Dashboard](https://raw.githubusercontent.com/p-box2025/P-BOX/main/1.png)
 
-### Proxy Groups
-Node selection, latency testing, and proxy group management.
-
-![Proxy Groups](https://raw.githubusercontent.com/p-box2025/P-BOX/main/2.png)
-
-### Subscriptions
-Multi-source subscription management with one-click update.
-
-![Subscriptions](https://raw.githubusercontent.com/p-box2025/P-BOX/main/3.png)
-
 ### Core Management
-Mihomo core version detection, download, and installation.
+Manage Mihomo and Sing-box cores, version detection, one-click install and switch.
 
-![Core Management](https://raw.githubusercontent.com/p-box2025/P-BOX/main/4.png)
+![Core Management](https://raw.githubusercontent.com/p-box2025/P-BOX/main/2.png)
+
+### Sing-box Config
+Advanced configuration: DNS, traffic routing, rulesets, TLS, NTP, TUN settings and more.
+
+![Sing-box Config](https://raw.githubusercontent.com/p-box2025/P-BOX/main/3.png)
+
+### Traffic History
+Traffic trend charts, upload/download statistics, and traffic classification.
+
+![Traffic History](https://raw.githubusercontent.com/p-box2025/P-BOX/main/4.png)
 
 ## 🚀 Quick Start
 
@@ -63,9 +63,7 @@ The script will:
 - Detect system architecture automatically (amd64/arm64)
 - Download the latest stable release
 - Install to `/etc/p-box`
-- Create a systemd service for auto-start
-- Configure Nginx reverse proxy
-- Start the service on port **8666**
+- Start P-BOX on port **8383**
 
 ### Manual Installation
 

@@ -140,7 +140,7 @@ else
 fi
 
 # Set permissions
-chmod +x "$INSTALL_DIR/p-box"
+chmod 755 "$INSTALL_DIR/p-box"
 
 # Update config port
 if [ -f "$INSTALL_DIR/config.yaml" ]; then
